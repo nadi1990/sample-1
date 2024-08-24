@@ -1,3 +1,5 @@
 void main(){
-  print("hello world");
+  String message;
+  message = "hello world";
+  print(message);
 }
